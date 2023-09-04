@@ -28,5 +28,6 @@ Get the dependencies and build:
 
 ```shell
 pip install -r requirements.txt
+git submodule update --init --recursive
 python setup.py develop
 ```

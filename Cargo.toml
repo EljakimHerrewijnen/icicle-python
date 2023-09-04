@@ -19,6 +19,7 @@ pyo3 = { version = "0.19.2", features = ["extension-module", "indexmap", "abi3-p
 target-lexicon = "0.12.7"
 tracing = "*"
 tracing-subscriber = "0.3.17"
+unicorn-engine = { path = "unicorn"}
 
 [build-dependencies]
 pyo3-build-config = "0.19.2"

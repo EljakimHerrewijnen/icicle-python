@@ -1,3 +1,6 @@
 [submodule "icicle-emu"]
 	path = icicle-emu
 	url = https://github.com/icicle-emu/icicle-emu
+[submodule "unicorn"]
+	path = unicorn
+	url = git@github.com:unicorn-engine/unicorn.git
